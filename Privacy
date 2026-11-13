@@ -1,0 +1,31 @@
+<!doctype html><html lang='en'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'><title>Narrify Privacy Policy</title><style>body{font-family:system-ui,Arial,sans-serif;max-width:720px;margin:2rem auto;padding:0 1rem;line-height:1.6;color:#222}h1{margin-bottom:.2rem}h2{margin-top:1.8rem}.m{color:#666;font-size:.9rem}</style></head><body>
+<h1>Narrify Privacy Policy</h1><p class='m'>Last updated: [DATE OF PUBLISHING]</p>
+<h2>Short version</h2>
+<p>Narrify is a video maker that works on your phone. It has no accounts and no sign-in. We do not collect, sell or share your personal information.</p>
+<p>Your projects, pictures, recordings and exported videos stay on your device unless you choose to share them.</p>
+<h2>Who we are</h2>
+<p>Narrify is made by [DEVELOPER NAME] (&quot;we&quot;, &quot;us&quot;). You can contact us at narrify.support@gmail.com.</p>
+<h2>What the app uses on your device</h2>
+<ul><li>Camera: only when you use Camera to add a picture or clip to a scene.</li><li>Microphone: only when you record narration or a recording in a scene.</li><li>Files, photos, videos and audio: only the ones you pick, such as scene pictures, video clips, background music, sound effects and a custom watermark picture.</li></ul>
+<p>All of this stays on your device. We cannot see it. You can turn each permission off at any time in your Android settings. Some features then stop working.</p>
+<h2>What happens on your device</h2>
+<p>Narration voices, speech recognition for subtitles (NarriSync) and video rendering all run on your device. Your scripts, recordings and videos are not sent to us or to any server.</p>
+<p>If you choose the Android voice, the text is read by the text-to-speech engine that came with your phone. That engine is provided by your phone maker or Google and follows their policies, not ours.</p>
+<h2>Downloads</h2>
+<p>Some voice and speech files are large, so the app downloads them the first time you use them. These files are hosted on GitHub [CHECK: and any other host used]. Like any download, the host can see your IP address and basic request details. We do not receive or link this to you. Nothing about you or your projects is uploaded.</p>
+<p>You can delete a downloaded speech model inside the app (Remove NarriSync model) or by clearing the app&#x27;s storage.</p>
+<h2>Information we collect</h2>
+<p>None. The app has no sign-up, no analytics and no crash reporting [CHECK before publishing: confirm no analytics or crash library is in the build]. If you email us, we get your email address and message, and we use them only to reply.</p>
+<h2>Ads and purchases</h2>
+<p>This version of Narrify has no ads and no in-app purchases. If we add them in a future version, we will update this policy first and name the providers involved.</p>
+<h2>Sharing</h2>
+<p>We do not share your information with anyone. When you export or share a video, you decide where it goes and who sees it. After that, the places you share it to apply their own policies.</p>
+<h2>Children</h2>
+<p>Narrify is not directed at children under 13, and we do not knowingly collect information from children.</p>
+<h2>Keeping and deleting your data</h2>
+<p>Your projects are stored in the app&#x27;s storage on your device. Delete a project in the app, or uninstall the app, to remove them. Videos you exported are saved where you chose to save them, and stay there until you delete them.</p>
+<h2>Changes to this policy</h2>
+<p>If we change this policy, we will update the date above and, for important changes, tell you in the app.</p>
+<h2>Contact</h2>
+<p>Questions or requests: narrify.support@gmail.com.</p>
+</body></html>
